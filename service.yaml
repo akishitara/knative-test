@@ -9,4 +9,4 @@ spec:
       revisionTemplate:
         spec:
           container:
-            image: docker.io/akishitara1225/knative-test 
+            image: docker.io/akishitara/knative-test 
